@@ -5,10 +5,10 @@
    라이선스: GNU LGPL v3.0 이상 (LGPL-3.0.txt, GPL-3.0.txt 참고)
    assets/rctmod/ 아래 파일은 원본 그대로이며 수정하지 않았습니다.
 
-2. 글자 이미지(한글·영어·숫자): 강원교육모두체 Light — 제작: 강원특별자치도교육청
+2. 글자 이미지(한글·영어·숫자): 강원교육모두체 Light, Bold — 제작: 강원특별자치도교육청
    https://noonnu.cc/font_page/802
    폰트 파일은 포함하지 않았으며, 폰트로 렌더링한 글자 이미지만
    assets/tml/textures/font/ 에 들어 있습니다.
    폰트의 저작권은 강원특별자치도교육청에 있습니다.
 
-추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json
+추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json (Light), assets/tml/font/bold.json (Bold)
