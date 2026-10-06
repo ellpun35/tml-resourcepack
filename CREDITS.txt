@@ -7,9 +7,9 @@
    라이선스: GNU LGPL v3.0 이상 (LGPL-3.0.txt, GPL-3.0.txt 참고)
    assets/rctmod/ 아래 파일은 원본 그대로이며 수정하지 않았습니다.
 
-2. Galmuri (갈무리) 폰트 v2.40.4 — by Lee Minseo (quiple)
-   https://github.com/quiple/galmuri
-   라이선스: SIL Open Font License 1.1 (Galmuri-LICENSE.txt 참고)
-   assets/tml/font/galmuri9.ttf
+2. Pretendard (프리텐다드) SemiBold v1.3.9 — by Kil Hyung-jin (orioncactus)
+   https://github.com/orioncactus/pretendard
+   라이선스: SIL Open Font License 1.1 (Pretendard-LICENSE.txt 참고)
+   한글 음절·자모를 PNG 이미지로 렌더링해 assets/tml/textures/font/ 에 넣었습니다.
 
-추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json (한글만 갈무리로 표시)
+추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json (한글만 프리텐다드로 표시)
