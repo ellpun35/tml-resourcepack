@@ -5,7 +5,7 @@
    라이선스: GNU LGPL v3.0 이상 (LGPL-3.0.txt, GPL-3.0.txt 참고)
    assets/rctmod/ 아래 파일은 원본 그대로이며 수정하지 않았습니다.
 
-2. 한글 글자 이미지: 그리운 예은체 — 제작: 그리운
+2. 글자 이미지(한글·영어·숫자): 그리운 예은체 — 제작: 그리운
    https://noonnu.cc/font_page/1938
    폰트 파일은 포함하지 않았으며, 폰트로 렌더링한 글자 이미지만
    assets/tml/textures/font/ 에 들어 있습니다.
