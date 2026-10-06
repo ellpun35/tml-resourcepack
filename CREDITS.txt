@@ -1,0 +1,15 @@
+2026 TML 코블몬 서버 리소스팩
+
+이 팩은 아래 두 작품을 합친 것입니다.
+
+1. Radical Cobblemon Trainer Textures Plus (RCT Trainers+) v2.2 — by forestfire
+   https://modrinth.com/resourcepack/rct-trainer-textures-plus
+   라이선스: GNU LGPL v3.0 이상 (LGPL-3.0.txt, GPL-3.0.txt 참고)
+   assets/rctmod/ 아래 파일은 원본 그대로이며 수정하지 않았습니다.
+
+2. Galmuri (갈무리) 폰트 v2.40.4 — by Lee Minseo (quiple)
+   https://github.com/quiple/galmuri
+   라이선스: SIL Open Font License 1.1 (Galmuri-LICENSE.txt 참고)
+   assets/tml/font/galmuri9.ttf
+
+추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json (한글만 갈무리로 표시)
