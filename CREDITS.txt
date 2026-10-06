@@ -1,15 +1,14 @@
 2026 TML 코블몬 서버 리소스팩
 
-이 팩은 아래 두 작품을 합친 것입니다.
-
 1. Radical Cobblemon Trainer Textures Plus (RCT Trainers+) v2.2 — by forestfire
    https://modrinth.com/resourcepack/rct-trainer-textures-plus
    라이선스: GNU LGPL v3.0 이상 (LGPL-3.0.txt, GPL-3.0.txt 참고)
    assets/rctmod/ 아래 파일은 원본 그대로이며 수정하지 않았습니다.
 
-2. Pretendard (프리텐다드) SemiBold v1.3.9 — by Kil Hyung-jin (orioncactus)
-   https://github.com/orioncactus/pretendard
-   라이선스: SIL Open Font License 1.1 (Pretendard-LICENSE.txt 참고)
-   한글 음절·자모를 PNG 이미지로 렌더링해 assets/tml/textures/font/ 에 넣었습니다.
+2. 한글 글자 이미지: 그리운 예은체 — 제작: 그리운
+   https://noonnu.cc/font_page/1938
+   폰트 파일은 포함하지 않았으며, 폰트로 렌더링한 글자 이미지만
+   assets/tml/textures/font/ 에 들어 있습니다.
+   폰트의 저작권은 그리운에 있습니다.
 
-추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json (한글만 프리텐다드로 표시)
+추가/변경: pack.mcmeta, pack.png, assets/minecraft/font/default.json
